@@ -5,5 +5,7 @@ public class classb {
 	int a;
 	int b
 ;
+	
+	String s ="";
 
 }
